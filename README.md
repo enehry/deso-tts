@@ -1,4 +1,4 @@
-# deso_tss
+# DESO TTS
 
 Deso technical support staff event sender for final testing and sealing, and election day.
 
